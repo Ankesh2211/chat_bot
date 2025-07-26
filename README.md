@@ -3,7 +3,7 @@
 ### Setup
 ```bash
 git clone <repo>
-cd rag_chatbot
+cd chat_bot
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -21,7 +21,7 @@ python app/main.py
 
 ### To Run (UI)
 ```bash
-streamlit run app/main.py
+streamlit run app/docker_main.py
 ```
 
 ### To Run with Docker

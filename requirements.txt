@@ -5,7 +5,6 @@ openAI
 prometheus_client
 python-docx
 langchain-community
-pysqlite3-binary
 tiktoken
 pypdf
 docx2txt
